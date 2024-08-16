@@ -38,6 +38,14 @@ h4 {
     padding-top: 20px;
 }
 
+.caption-emoji{
+    text-align: center;
+}
+
+.caption-emoji span {
+    font-size: 30px;
+}
+
 a {
     display: block;
     margin-bottom: 10px;
