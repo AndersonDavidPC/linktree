@@ -65,3 +65,8 @@ a:hover {
   background-color: #ff6600;
   border-color: #ff6600;
 }
+
+.calendly-inline-widget {
+  min-width: 320px;
+  height: 700px;
+}
